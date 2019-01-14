@@ -12,3 +12,31 @@ li{
 .fr{
     float:right;
 }
+h2{
+    text-align: center;
+    color: darkred;
+}
+.c-small{
+    font-size:14px;
+    font-weight: normal;
+    color: #999;
+}
+.c-img{
+}
+.c-img img{
+
+}
+.c-list{
+    margin-top:10px !important;
+}
+.c-list li{
+    height: 50px;
+    line-height: 50px;
+
+}
+.c-list font{
+    font-weight: normal;
+}
+.red{
+    color:red;
+}
