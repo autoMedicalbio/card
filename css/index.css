@@ -13,10 +13,10 @@ a{
     background-color: #fff;
     color: #28365D;
 }
-.ui-btn{
+.ui-b{
     height: 40%;
-    background-color: #EEEDEE;
     color: #28365D;
+    background-color: #EEEEEE;
 }
 
 .foot-p{
@@ -26,5 +26,5 @@ a{
     text-align: center;
 }
 span{
-    font-size: 12px;
+    font-size: 13px;
 }
