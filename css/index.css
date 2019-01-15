@@ -20,11 +20,22 @@ a{
 }
 
 .foot-p{
-    font-size: 8px;
+    font-size: 9px;
     color:#28365D ;
     font-weight: normal;
     text-align: center;
 }
 span{
-    font-size: 13px;
+    font-size: 14px;
+}
+.tt{
+    width: 40%;
+}
+.yy{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.ww{
+    margin-bottom: 5px;
 }
