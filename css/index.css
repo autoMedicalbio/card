@@ -71,7 +71,7 @@ span{
     padding-left: 8%;
     padding-right: 8%;
     background-color: #4C4C4C;
-    color: #fff;
+
 }
 .sx{
     height: 60%;
@@ -82,4 +82,12 @@ span{
 .pp{
     width: 98%;
 
+}
+.zzz{
+    color: #fff;
+    font-weight: normal;
+}
+.yyy{
+    font-weight: normal;
+    color: #fff;
 }
