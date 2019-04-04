@@ -61,9 +61,8 @@ span{
 .zzspan{
     font-size: 12px;
 }
-.jjspan{
+.jjj{
     font-size: 13px;
-    font-weight:blod;
 }
 .sh{
     height: 40%;
@@ -87,7 +86,7 @@ span{
     color: #fff;
     font-weight: normal;
 }
-#yyy{
-    font-weight: normal;
-    color: #fff;
+.yyy{
+    font-weight:100 !important;
+    font-size: 17px;
 }
