@@ -65,3 +65,21 @@ span{
     font-size: 13px;
     font-weight:blod;
 }
+.sh{
+    height: 40%;
+    padding-top: 20%;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: #4C4C4C;
+    color: #fff;
+}
+.sx{
+    height: 60%;
+    background-color: #EDEDED;
+    padding-bottom: 20%;
+    padding-top: 2%;
+}
+.pp{
+    width: 98%;
+
+}
