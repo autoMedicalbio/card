@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration:none;
+}
+.wx_pic{
+
+}
+.tu{
+    width: 55%;
+}
+.tt{
+    max-width:100%;
+}
+.zz{
+    font-size: 18px;
+}
