@@ -1,6 +1,12 @@
 body{
     margin: 0;
     padding: 0;
+    max-width: 100%;
+    color: rgb(136, 136, 136);
+    font-size: 14px;
+    line-height: 25.6px;
+    box-sizing: border-box !important;
+    word-wrap: break-word !important;
 }
 a{
     text-decoration:none;
@@ -9,14 +15,20 @@ a{
 
 }
 .tu{
-    width: 55%;
+    width: 100%;
 }
 .tt{
     max-width:100%;
 }
 .zz{
-    font-size: 18px;
+    font-size: 17px;
 }
 .dd{
     text-align:center;
+}
+.bb{
+
+    background-color: rgb(249, 110, 87);
+    width: 100% !important;
+    height: auto !important;
 }
