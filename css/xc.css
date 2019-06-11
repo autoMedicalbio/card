@@ -36,3 +36,10 @@ a{
 .ss{
     float: right;
 }
+.row{
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
