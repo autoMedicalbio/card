@@ -15,7 +15,11 @@ a{
 b{
     background-color: palegoldenrod;
 }
-
+.uu{
+    height: 30px;
+    width: 20px;
+    text-align: center;
+}
 .wx_pic{
 
 }
