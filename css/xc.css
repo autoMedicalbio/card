@@ -57,6 +57,10 @@ b{
     border:5px solid #9DA295;
     padding: 3px;
     border-radius: 12px;
+    text-indent:32px;
+}
+.qq{
+    text-indent:32px;
 }
 .row{
     height: auto;
