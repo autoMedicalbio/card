@@ -13,7 +13,7 @@ a{
     color: #158A88;
 }
 b{
-    background-color: lightgoldenrodyellow;
+    background-color: #FFC000;
     /*
     text-align: center;
     background-image: -webkit-linear-gradient(left, #3498db, #f47920 10%, #d71345 20%, #f7acbc 30%,
@@ -52,12 +52,6 @@ b{
 }
 .ss{
     float: right;
-}
-.mm{
-    border:5px solid #9DA295;
-    padding: 3px;
-    border-radius: 12px;
-    text-indent:32px;
 }
 .qq{
     text-indent:32px;
