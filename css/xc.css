@@ -8,6 +8,7 @@ body{
     box-sizing: border-box !important;
     word-wrap: break-word !important;
 }
+
 a{
     text-decoration:none;
     color: #158A88;
@@ -39,7 +40,7 @@ b{
     max-width:100%;
 }
 .zz{
-    font-size: 17px;
+    font-weight: bold;
 }
 .dd{
     text-align:center;
