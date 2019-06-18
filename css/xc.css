@@ -34,8 +34,15 @@ b{
     text-align: center;
     margin: 5px 0 -7px 0;
 }
-.wx_pic{
-
+.qs{
+    display: block;
+    height: 30%;
+    width: 100%;
+}
+.te{
+    height: 20px;
+    width: 30px;
+    margin: 5px 0 -5px 0;
 }
 .tu{
     width: 100%;
