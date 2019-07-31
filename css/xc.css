@@ -49,6 +49,12 @@ b{
 }
 .tt{
     max-width:100%;
+    margin:0 auto;
+}
+.tent{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
 }
 .zz{
     font-weight: bold;
