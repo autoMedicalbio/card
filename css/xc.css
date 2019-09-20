@@ -57,13 +57,7 @@ b{
 
 }
 .to{
-    font-size: 25px;
-    color:white;
-    padding: 15px 20px;
-    background-color: orange;
-    position: absolute;
-    left: 50px;
-    bottom: 200px;
+    cursor: pointer;
 }
 .tent{
     margin: 0px;
@@ -101,3 +95,4 @@ b{
     flex-wrap: wrap;
     justify-content:space-between;
 }
+
