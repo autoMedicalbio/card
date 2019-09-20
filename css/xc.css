@@ -49,12 +49,32 @@ b{
 }
 .tt{
     max-width:100%;
-    margin:0 auto;
+    margin:-3.5px auto;
+}
+.ty{
+    max-width:100%;
+    margin:-4px auto;
+
+}
+.to{
+    font-size: 25px;
+    color:white;
+    padding: 15px 20px;
+    background-color: orange;
+    position: absolute;
+    left: 50px;
+    bottom: 200px;
 }
 .tent{
     margin: 0px;
     padding: 0px;
     width: 100%;
+}
+.tens{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    position: relative;
 }
 .zz{
     font-weight: bold;
