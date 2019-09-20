@@ -11,21 +11,25 @@
 <body style="text-align: center">
 
 
-    <div data-role="main" class="tent">
-        <img src="img/101.jpg" class="tt">
-        <img src="img/102.jpg" class="tt">
-        <img src="img/103.jpg" class="tt">
-        <img src="img/104.jpg" class="tt">
-    </div>
-    <div data-role="main" class="tens">
-        <!--修改href里面网址就行-->
-        <a class="to" href="http://www.baidu.com" title="点击购买">
-            <img src="img/105.jpg" class="ty">
-        </a>
-
-    </div>
-
+<div data-role="main" class="tent">
+    <img src="img/101.jpg" class="tt">
+    <img src="img/102.jpg" class="tt">
+    <img src="img/103.jpg" class="tt">
+    <img src="img/104.jpg" class="tt">
+</div>
+<div data-role="main" class="tens" id="goBuy">
+    <!--修改href里面网址就行-->
+    <img src="img/105.jpg" class="ty">
+</div>
 
 
 </body>
+<script type="text/javascript">
+    window.onload = function(){
+        var goBuy = document.getElementById("goBuy");
+        goBuy.onclick =  function(){
+            window.location.href = 'http://www.baidu.com'
+        }
+    }
+</script>
 </html>
